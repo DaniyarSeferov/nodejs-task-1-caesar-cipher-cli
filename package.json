@@ -1,0 +1,26 @@
+{
+  "name": "caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "Implements CLI tool that will encode and decode a text by Caesar cipher.",
+  "main": "caesar-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniyarSeferov/nodejs-task-1-caesar-cipher-cli.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Daniyar Seferov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniyarSeferov/nodejs-task-1-caesar-cipher-cli/issues"
+  },
+  "homepage": "https://github.com/DaniyarSeferov/nodejs-task-1-caesar-cipher-cli#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
